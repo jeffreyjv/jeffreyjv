@@ -49,8 +49,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon&logoColor=FF9900)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0089D6)
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=7B42BC)
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=3069DE)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2CA5E0)
 ![Podman](https://img.shields.io/badge/-Podman-05122A?style=flat&logo=podman&logoColor=892CA0)
 
