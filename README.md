@@ -11,7 +11,7 @@
 
 ### About Me  
 - **B.S. in Computer Science** from University of North Carolina at Chapel Hill ('23)  
-- **Cloud Full-Stack Engineer** with experience in:  
+- **Senior Full-Stack Software Engineer** with experience in:  
   - Cloud Infrastructure & AWS Platform Engineering
   - Full-Stack Internal Tooling & Developer Portals
   - CI/CD Pipelines, DevSecOps & Security Automation
